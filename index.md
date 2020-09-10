@@ -1,6 +1,10 @@
 # Welcome to our tutorial page for MICCAI 2020
 
-This tutorial is focused on an introductino to machine learning approaches for data fusion of imaging and non-imaging data for clinical decision support
+This tutorial is focused on an introduction to machine learning approaches for data fusion of imaging and non-imaging data for clinical decision support
+* William Hsu - UCLA
+* Arvind Rao - University of Michigan
+* Olivier Gevaert - Stanford University
+
 
 ## Overview
 
@@ -9,19 +13,19 @@ Vast amounts of biomedical data are now routinely available for patients, rangin
 ## Program
 
 ### Session 1: Introduction to data fusion of imaging and non-imaging data
-Olivier Gevaert - Stanford University - Introduction to data modalities and data fusion
-William Hsu - UCLA - Quantitative analysis of radiographic images in the context of non-imaging data
-Arvind Rao - University of Michigan - Data fusion of multi-omics and imaging data
-followed by live Panel discussion with speakers in including Q&A
+* Olivier Gevaert - Stanford University - Introduction to data modalities and data fusion
+* William Hsu - UCLA - Quantitative analysis of radiographic images in the context of non-imaging data
+* Arvind Rao - University of Michigan - Data fusion of multi-omics and imaging data
+* Live Panel discussion with speakers including Q&A
 
 ### Session 2: Examples of data fusion of imaging and non-imaging data
-Anahita Fahita - University of Pennsylvania - Quantitative analysis of MR images using radiogenomics
-Mirabela Rusu - Stanford University - Integration of pathology and radiology imaging
-followed by live Panel discussion with speakers in including Q&A
+* Anahita Fahita - University of Pennsylvania - Quantitative analysis of MR images using radiogenomics
+* Mirabela Rusu - Stanford University - Integration of pathology and radiology imaging
+* Live Panel discussion with speakers & orgnaizers including Q&A
 
 ### Session 3: Tools, software, data commons and architectures for fusion of imaging and non-imaging data
-Martin Vallière - Université de Sherbrooke - Medomics a software framework for integrating omics and imaging data
-Andrey Federov - Harvard University - Introduction to the NCI Imaging Data Commons and it's connection to other NCI data commons
-followed by live Panel discussion with speakers in including Q&A
+* Martin Vallière - Université de Sherbrooke - Medomics a software framework for integrating omics and imaging data
+* Andrey Federov - Harvard University - Introduction to the NCI Imaging Data Commons and it's connection to other NCI data commons
+* Live Panel discussion with speakers & orgnaizers including Q&A
 
 
