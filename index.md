@@ -1,6 +1,6 @@
 # Welcome to our tutorial page for MICCAI 2020
 
-This tutorial is focused on an introduction to machine learning approaches for data fusion of imaging and non-imaging data for clinical decision support
+This tutorial is focused on an introduction to machine learning approaches for data fusion of imaging and non-imaging data for clinical decision support organized on behalf of the AMIA biomedical imaging informatics working group.
 * William Hsu - UCLA
 * Arvind Rao - University of Michigan
 * Olivier Gevaert - Stanford University
