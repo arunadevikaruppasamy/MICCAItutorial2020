@@ -14,7 +14,7 @@ Vast amounts of biomedical data are now routinely available for patients, rangin
 ## Program
 
 ### Session 1: Introduction to data fusion of imaging and non-imaging data - 7am-8am PST / 16-17u CET
-* Olivier Gevaert - Stanford University - Introduction to data modalities and data fusion :movie_camera:
+* Olivier Gevaert - Stanford University - Introduction to data modalities and data fusion `:movie_camera:`
 * William Hsu - UCLA - Quantitative analysis of radiographic images in the context of non-imaging data :movie_camera:
 * Arvind Rao - University of Michigan - Data fusion of multi-omics and imaging data :movie_camera:
 * __Live Panel discussion__ with speakers including Q&A at 8am PST / 17u CET
