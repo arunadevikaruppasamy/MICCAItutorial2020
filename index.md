@@ -30,5 +30,5 @@ Vast amounts of biomedical data are now routinely available for patients, rangin
 
 All times are approximate and will be updated 1 week before the tutorial date of October 4th. 
 
-:movie_camera: prerecorded presentations by speakers. 
+:movie_camera:  prerecorded presentations by speakers. 
 
