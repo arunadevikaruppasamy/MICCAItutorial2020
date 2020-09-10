@@ -13,20 +13,20 @@ Vast amounts of biomedical data are now routinely available for patients, rangin
 ## Program
 
 ### Session 1: Introduction to data fusion of imaging and non-imaging data - 7am-8am PST / 16-17u CET
-* Olivier Gevaert - Stanford University - Introduction to data modalities and data fusion
+* Olivier Gevaert - Stanford University - Introduction to data modalities and data fusion 
 * William Hsu - UCLA - Quantitative analysis of radiographic images in the context of non-imaging data
 * Arvind Rao - University of Michigan - Data fusion of multi-omics and imaging data
-* Live Panel discussion with speakers including Q&A at 8am PST / 17u CET
+* __Live Panel discussion__ with speakers including Q&A at 8am PST / 17u CET
 
 ### Session 2: Examples of data fusion of imaging and non-imaging data - 8.40am-9.20am PST / 17u40-18u20 CET
 * Anahita Fahita - University of Pennsylvania - Quantitative analysis of MR images using radiogenomics
 * Mirabela Rusu - Stanford University - Integration of pathology and radiology imaging
-* Live Panel discussion with speakers & organizers including Q&A at 9.30am PST / 18u30 CET
+* __Live Panel discussion__ with speakers & organizers including Q&A at 9.30am PST / 18u30 CET
 
 ### Session 3: Tools, software, data commons and architectures for fusion of imaging and non-imaging data - 10am-10.40am PST / 19u-19u40 CET
 * Martin Vallières - Université de Sherbrooke - Medomics a software framework for integrating omics and imaging data
 * Andrey Federov - Harvard University - Introduction to the NCI Imaging Data Commons and it's connection to other NCI data commons
-* Live Panel discussion with speakers & organizers including Q&A at 11am PST / 19u CET
+* __Live Panel discussion__ with speakers & organizers including Q&A at 11am PST / 19u CET
 
 All times are approximate and will be updated 1 week before the tutorial date of October 4th. 
 
