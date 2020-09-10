@@ -24,7 +24,7 @@ Vast amounts of biomedical data are now routinely available for patients, rangin
 * Live Panel discussion with speakers & organizers including Q&A
 
 ### Session 3: Tools, software, data commons and architectures for fusion of imaging and non-imaging data
-* Martin Vallière - Université de Sherbrooke - Medomics a software framework for integrating omics and imaging data
+* Martin Vallières - Université de Sherbrooke - Medomics a software framework for integrating omics and imaging data
 * Andrey Federov - Harvard University - Introduction to the NCI Imaging Data Commons and it's connection to other NCI data commons
 * Live Panel discussion with speakers & organizers including Q&A
 
