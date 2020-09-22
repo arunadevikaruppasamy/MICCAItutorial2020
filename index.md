@@ -26,7 +26,7 @@ Vast amounts of biomedical data are now routinely available for patients, rangin
 
 ### Session 3: Tools, software, data commons and architectures for fusion of imaging and non-imaging data - 10am-10.40am PST / 19u-19u40 CET
 * Martin Vallières - Université de Sherbrooke - Medomics a software framework for integrating omics and imaging data :movie_camera:
-* Andrey Federov - Harvard University - Introduction to the NCI Imaging Data Commons and it's connection to other NCI data commons :movie_camera:
+* Andrey Fedorov - Harvard University - Introduction to the NCI Imaging Data Commons and it's connection to other NCI data commons :movie_camera:
 * __Live Panel discussion__ with speakers & organizers including Q&A at 11am PST / 19u CET
 
 All times are approximate and will be updated 1 week before the tutorial date of October 4th. 
