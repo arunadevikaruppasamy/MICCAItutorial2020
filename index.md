@@ -20,7 +20,7 @@ Vast amounts of biomedical data are now routinely available for patients, rangin
 * __Live Panel discussion__ with speakers including Q&A at 8am PDT / 17u CET
 
 ### Session 2: Examples of data fusion of imaging and non-imaging data - 8.40am-9.20am PDT / 17u40-18u20 CET
-* Anahita Fahita - University of Pennsylvania - Quantitative analysis of MR images using radiogenomics :movie_camera:
+* Anahita Fathi Kazerooni - University of Pennsylvania - Quantitative analysis of MR images using radiogenomics :movie_camera:
 * Mirabela Rusu - Stanford University - Integration of pathology and radiology imaging :movie_camera:
 * __Live Panel discussion__ with speakers & organizers including Q&A at 9.30am PDT / 18u30 CET
 
